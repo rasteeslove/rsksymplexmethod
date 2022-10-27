@@ -9,7 +9,7 @@ setup(
   author = 'Rostislav Kayko',
   author_email = 'krastsislau@gmail.com',
   url = 'https://github.com/rasteeslove/rsksymplexmethod',
-  download_url = 'https://github.com/rasteeslove/rsksymplexmethod/dist/v_01.tar.gz',
+  download_url = 'https://github.com/rasteeslove/rsksymplexmethod/archive/v_01.tar.gz',
   keywords = ['Math', 'Simplex', 'Method'],
   install_requires=[
           'numpy',
