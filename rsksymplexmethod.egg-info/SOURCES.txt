@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+rsksymplexmethod/__init__.py
+rsksymplexmethod/dual.py
+rsksymplexmethod/initial.py
+rsksymplexmethod/main.py
+rsksymplexmethod/symplex.py
+rsksymplexmethod/utils.py
+rsksymplexmethod.egg-info/PKG-INFO
+rsksymplexmethod.egg-info/SOURCES.txt
+rsksymplexmethod.egg-info/dependency_links.txt
+rsksymplexmethod.egg-info/requires.txt
+rsksymplexmethod.egg-info/top_level.txt
